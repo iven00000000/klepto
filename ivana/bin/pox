@@ -1,0 +1,4 @@
+#!/Users/Ivana/Projects/klepto/ivana/bin/python
+# EASY-INSTALL-SCRIPT: 'pox==0.2.6','pox'
+__requires__ = 'pox==0.2.6'
+__import__('pkg_resources').run_script('pox==0.2.6', 'pox')
